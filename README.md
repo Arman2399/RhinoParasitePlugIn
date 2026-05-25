@@ -1,0 +1,1 @@
+Translating the oppressive, decaying atmosphere of an abandoned rural town or the psychological horror of Silent Hill f. This tool does not design the primary building; it generates a suffocating secondary layer. It uses a space colonization algorithm to grow erratic, organic structural members over pristine geometry, creating a feeling that the architecture is being swallowed.
