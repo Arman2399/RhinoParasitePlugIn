@@ -1,0 +1,9 @@
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.csproj.AssemblyReference.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.AssemblyInfoInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.AssemblyInfo.cs
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.csproj.CoreCompileInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net48\ParasiticGrowth.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net48\ParasiticGrowth.pdb
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net48\ParasiticGrowth.pdb

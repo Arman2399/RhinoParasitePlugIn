@@ -1,0 +1,14 @@
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.csproj.AssemblyReference.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.AssemblyInfoInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.AssemblyInfo.cs
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.csproj.CoreCompileInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net7.0\ParasiticGrowth.deps.json
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net7.0\ParasiticGrowth.runtimeconfig.json
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net7.0\ParasiticGrowth.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\bin\Debug\net7.0\ParasiticGrowth.pdb
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\refint\ParasiticGrowth.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.pdb
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ParasiticGrowth.genruntimeconfig.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParasiticGrowth\obj\Debug\net7.0\ref\ParasiticGrowth.rhp
